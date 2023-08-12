@@ -14,7 +14,7 @@ The trained bot is trained by playing games against itself. Each amount of stick
 The game starts with 10 sticks(may be changed by the user) and two players take turns selecting a certain amount of sticks(1-3). When a user is forced to pick up the last stick, they lose.
 
 ## Installation
-Simply clone the repository and run the program.
+Simply clone the repository and run the Game.java file.
 ```
 git clone https://github.com/BrandonKheang/GameOfSticks.git
 ```
